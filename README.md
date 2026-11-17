@@ -48,6 +48,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1112" height="882" alt="BANK ATM" src="https://github.com/user-attachments/assets/9de49a2f-a3f0-448b-8cdf-f840190af75d" />
 
 
 
@@ -68,6 +69,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1118" height="890" alt="Bank ATM class diagram (2)" src="https://github.com/user-attachments/assets/b8c9aa96-8265-4d96-ac27-8b3089cd7743" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -75,6 +77,8 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+
+<img width="907" height="703" alt="image" src="https://github.com/user-attachments/assets/8caea83b-58b5-4526-8f93-182f6e84cbe1" />
 
 
 
@@ -90,6 +94,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1118" height="887" alt="bank atm package diagram" src="https://github.com/user-attachments/assets/a8bb0a85-6144-45eb-b391-57107a683f16" />
 
 
 
@@ -107,6 +112,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1132" height="897" alt="Bank ATM activity diagram" src="https://github.com/user-attachments/assets/4bca192f-5520-409b-8612-37f7046a9ccd" />
 
 
 
@@ -130,6 +136,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1116" height="888" alt="bank atm sequence diagram" src="https://github.com/user-attachments/assets/c8c8dafb-dde5-4290-92ad-ba4566e61b39" />
 
 
 # RESULT
